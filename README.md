@@ -1,2 +1,2 @@
 # assignment-data-science
-its markdown file in this repo.
+here is final assinment of python projects for data science.
